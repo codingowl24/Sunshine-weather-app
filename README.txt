@@ -1,0 +1,3 @@
+Udacity has helped me finish developing a simple weather app. What this course taught me:
+Building a cloud-connected Android app to help me understand the tools, principles and patterns that underlie Android development using Android Studio. 
+Project includes connecting to Open Weather Map API, adding permissions, initiating network I/O, using intents to navigate between Activities & implementing rich and responsive layouts. 
